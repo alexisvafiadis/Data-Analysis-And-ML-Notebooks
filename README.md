@@ -1,4 +1,4 @@
-# Data Science Workflows: EDA and Preprocessing Notebooks
+# Data Science Notebooks
 
 ## Project Overview
 
